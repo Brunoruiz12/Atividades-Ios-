@@ -1,0 +1,13 @@
+table,th, td{
+    text-align: center;
+    background-color: black;
+    color:  white;
+    border-style: solid;
+
+}
+td{
+    text-align: left;
+}
+.clube{
+    width: 300px;
+}

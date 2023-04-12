@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: burlywood;
+}
+h2{
+    text-align: left;
+
+}
+ul{
+    text-align: left;
+
+}
+ol{
+    text-align: left;
+}

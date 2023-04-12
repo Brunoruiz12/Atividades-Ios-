@@ -1,0 +1,22 @@
+table{
+
+  
+    width: 500px;
+}
+th{
+    background-color: lightseagreen;
+    
+    width: 3px;
+}
+tr{
+    border-style: solid;
+
+
+}
+.bruno{
+    background-color: aliceblue;
+    color: lightseagreen;
+}
+.ruiz{
+    color: aliceblue;
+}
